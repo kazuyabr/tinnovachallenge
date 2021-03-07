@@ -11,6 +11,7 @@ Sulivan Leite
 
 O projeto consiste em 5 exercícios fornecidos pela equipe de recrutamento.
 
+Para que os projetos Java não apresentem erros, ao baixar o projeto principal exclua o exercicio 5 (cadastroVeiculos) pois por se tratar de um projeto Spring ele ira impedir a compilação dos demais exercicios.
 1 - Votos em relação ao total de eleitores - [Clique para ser direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/master/src/exercicios/eleitores)
 
 2 - Algoritmo de ordenação Bubble Sort - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/master/src/exercicios/bubblesort)
@@ -19,6 +20,7 @@ O projeto consiste em 5 exercícios fornecidos pela equipe de recrutamento.
 
 4 - Soma de Multiplos de 3 ou 5 - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/master/src/exercicios/multiplos)
 
+Para rodar o projeto Spring é aconselhavel baixa-lo e importa-lo separadamente uma vez que se trata de um projeto MAVEN.
 5 - API Rest para cadastramento de veiculos - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/master/src/exercicios/cadastroVeiculos)
 
 Todos acima precisam de uma IDE com Java 8 para rodar, basta importar o diretório e utilizar.
