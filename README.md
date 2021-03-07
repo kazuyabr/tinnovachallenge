@@ -11,15 +11,15 @@ Sulivan Leite
 
 O projeto consiste em 5 exercícios fornecidos pela equipe de recrutamento.
 
-1 - Votos em relação ao total de eleitores - [Clique para ser direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/eleitores)
+1 - Votos em relação ao total de eleitores - [Clique para ser direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/src/exercicios/eleitores)
 
-2 - Algoritmo de ordenação Bubble Sort - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/bubblesort)
+2 - Algoritmo de ordenação Bubble Sort - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/src/exercicios/bubblesort)
 
-3 - Fatorial - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/fatorial)
+3 - Fatorial - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/src/exercicios/fatorial)
 
-4 - Soma de Multiplos de 3 ou 5 - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/multiplos)
+4 - Soma de Multiplos de 3 ou 5 - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/src/exercicios/multiplos)
 
-5 - API Rest para cadastramento de veiculos - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/cadastroVeiculos)
+5 - API Rest para cadastramento de veiculos - [Clique para se direcionado](https://github.com/kazuyabr/tinnovachallenge/tree/main/src/exercicios/cadastroVeiculos)
 
 Todos acima precisam de uma IDE com Java 8 para rodar, basta importar o diretório e utilizar.
 
@@ -44,7 +44,7 @@ API para cadastro de veículos, utilizando Spring Boot.
 
 ```bash
 # clonar repositório
-git clone https://github.com/kazuyabr/tinnovachallenge/tree/main/cadastroVeiculos
+git clone https://github.com/kazuyabr/tinnovachallenge/tree/develop/src/exercicios/cadastroVeiculos
 
 # executar o projeto
 ./mvnw spring-boot:run
